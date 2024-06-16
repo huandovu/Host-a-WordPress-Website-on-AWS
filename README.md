@@ -1,7 +1,7 @@
 
 # WordPress on AWS with DevOps
 
-Host_a_WordPress_Website_on_AWS.png
+![Alt text](Host_a_WordPress_Website_on_AWS.png)
 
 This project demonstrates the deployment of a WordPress website on AWS, utilizing various AWS services to ensure high availability, scalability, and security. The deployment is done using an EC2 instance, with resources configured as detailed below.
 
